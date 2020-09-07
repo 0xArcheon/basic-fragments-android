@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="players">
+        <item>Zinedine Zidane</item>
+        <item>Thibaut Courtois</item>
+        <item>Dani Carvajal</item>
+        <item>Eder Militao</item>
+        <item>Sergio Ramos</item>
+        <item>Raphael Varane</item>
+        <item>Nacho Fernandez</item>
+        <item>Eden Hazard</item>
+        <item>Toni Kroos</item>
+        <item>Karim Benzema</item>
+        <item>Luka Modric</item>
+        <item>Gareth Bale</item>
+        <item>Marcelo</item>
+        <item>Casemiro</item>
+        <item>Federico Valverde</item>
+        <item>Lucas Vazquez</item>
+        <item>Luka Jovic</item>
+        <item>Marco Asensio</item>
+        <item>Isco</item>
+        <item>Ferland Mendy</item>
+        <item>Mariano Diaz</item>
+        <item>Vinicius Jr.</item>
+        <item>Rodrygo</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item> Role: Head Coach/Manager \n  Nationality : French
+        </item>
+    <item>Position : Goalkeeper 
+    \n Nationality: Belgian
+    \n Kit Number : 1
+    \n Joined from Chelsea FC</item>
+    <item>Position : Right Back 
+    \n Nationality: Spanish
+    \n Kit Number : 2
+    \n Academy Product</item>
+    <item>Position : Centre Back/ Right Back 
+    \n Nationality: Brazilian
+    \n Kit Number : 3
+    \n Joined from FC Porto</item>
+    <item>Special Role : Captain 
+    \n Position : Centre Back
+    \n Nationality : Spanish
+    \n Kit Number : 4
+    \n Joined from Sevilla FC</item>
+    <item>Position : Centre Back 
+    \n Nationality : French
+    \n Kit Number : 5
+    \n Joined from Lens</item>
+    <item>Position : Centre Back / Right Back / Left Back
+    \n Nationality : Spanish
+        \n Kit Number : 6
+    \n Academy product
+    </item>
+    <item>Position : Left Wing
+    \n Nationality : Belgian
+    \n Kit Number : 7
+    \n Joined from Chelsea FC</item>
+    <item>Position : Central Midfield
+    \n Nationality : German
+    \n Kit Number : 8
+    \n Joined from Bayern Munchen</item>
+    <item>Position : Striker
+    \n Nationality : French
+    \n Kit Number : 9
+    \n Joined from Lyon</item>
+    <item>Position : Central Midfield
+    \n Nationality : Croatian
+    \n kit Number : 10
+    \n Joined from Tottenham Hotspurs</item>
+    <item>Position : Right Wing 
+    \n Nationality : Welsh
+    \n Kit Number : 11
+    \n Joined From Tottenham Hotspurs </item>
+     <item>Position : Left Back
+    \n Nationality : Brazilian
+    \n Kit Number : 12
+    \n Joined From Fluminense</item>
+     <item>Position : Central Defensive Midfield
+    \n Nationality : Brazilian
+    \n Kit Number : 14
+    \n Joined From FC Porto </item>
+     <item>Position : Central Midfield
+    \n Nationality : Uruguyaan
+    \n Kit Number : 15
+    \n Joined From Penarol</item>
+     <item>Position : Right Wing
+    \n Nationality : Spanish
+    \n Kit Number : 17
+    \n Academy product</item>
+     <item>Position : Striker
+    \n Nationality : Serbian
+    \n Kit Number : 18
+    \n Joined From Frankfurt </item>
+     <item>Position : Attacking Midfield / Left Wing / Right Wing
+    \n Nationality : Spanish
+    \n Kit Number : 20
+    \n Academy product </item>
+     <item>Position : Attacking Midfield
+    \n Nationality : Spanish
+    \n Kit Number : 22
+    \n Joined From Malaga FC</item>
+     <item>Position : Left Back
+    \n Nationality : French
+    \n Kit Number : 23
+    \n Joined From Lyon </item>
+    <item>Position : Striker
+    \n Nationality : Dominican
+    \n Kit Number : 24
+    \n Academy product</item>
+    <item>Position : Left Wing
+    \n Nationality : Brazilian
+    \n Kit Number : 24
+    \n Joined From Flamengo </item>
+    <item>Position : Right Wing
+    \n Nationality : Brazilian
+    \n Kit Number : 25
+    \n Joined From Santos </item>
+
+    </string-array>
+</resources>
